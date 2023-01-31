@@ -37,4 +37,4 @@ using RandomBattlegroundsBoard; // The namespace of your mod class
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-[assembly: MelonInfo(typeof(RandomBattlegroundsBoardMod), "Random Battlegrounds Board", "0.0.1", "Sebastien Tromp")]
+[assembly: MelonInfo(typeof(RandomBattlegroundsBoardMod), "Random Battlegrounds Board", "0.0.2", "Sebastien Tromp", "https://github.com/sebastientromp/hs-melon-random-battlegrounds-board")]
